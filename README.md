@@ -22,3 +22,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows Server 2022
 - Windows 10 (21H2)
 
+<h2>Active Directory-Reset Password </h2>
+
+![image](https://github.com/guednia7/password/assets/173207211/91158f11-38a5-4df2-af80-6e4745ae8c05)
+
+
+
+<p>
+
+
+<p>

@@ -8,7 +8,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to reset passwords within Active Directory using Microsoft Azure Compute](https://youtu.be/Lj3MEXHxuyc)
+- ### [YouTube: How to Reset Passwords within Active Directory](https://youtu.be/Lj3MEXHxuyc)
 
 
 <h2>Environments and Technologies Used</h2>
